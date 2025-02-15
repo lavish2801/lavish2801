@@ -5,7 +5,7 @@
 - 💻 **Software Development Engineer** with expertise in backend development, and blockchain.
 - 🌱 Currently learning and exploring **advanced encryption techniques** and **AI/ML integration**.
 - 💬 Ask me about **Node.js, Python, Blockchain, or CI/CD pipelines**.
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Portfolio Website]
+- 📫 How to reach me: [lavish280@gmail.com]
 - ⚡ Fun fact: I love solving coding challenges and contributing to open-source projects.
 
 ---
